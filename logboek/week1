@@ -1,0 +1,6 @@
+op 14 november heb ik de instaltie geistalleerd, hiervoor heb ik wel eerst wat dingen moeten aanpassen zoals in de code heb ik de regels moeten aanpassen van de pomp, 
+zoadat hij bij drogegrond (hooge waarde) aan gaat en bij vochtig genoege grond (lage waarde) uitslaat. dit was in de code die we kregen omgewisseld. 
+ook moest de wifi configuratie nog aangepast worden nadien kon de instalatie inwerking genomen worden. 
+bij het begin moest ik zoeken naar de waarden vanaf welke waarde een plant 'te droog' is en vanaf wanneer vochtig genoeg dit moest ik aanpassen aan de treshholds 
+het programma heeft 1 uurtje zeer goed gewerkt totdat de sensor oppeens heel warm aanvoelde en enkel super lage waarden gaf ik denk dat de sensor vanboven, 
+bij de condensatoren en spanningsregelaar incontact is gekomen met water
