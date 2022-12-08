@@ -1,0 +1,4 @@
+In de laatste week was uiteindelijk al het water dat te veel was van week 3 ingetrokken en begon het systeem terug normaal te werken, de motor kon nooit de hele tijd pompen maar in periodes of net niet tot aan de plant. 
+Dit heb ik opgelost door de weerstand tussen pin D1 en de basis weg te halen want die had slecht contact en de weerstand moest er niet verplicht zitten. 
+Ook heb ik gevonden dat de treshhold waardes 1800 om de motor aan te sturen en 1400 om de motor uit te zetten het beste werkte. 
+Ik kon ook alles volgen via de arduino IOT app op mijn gsm, dit was makkelijk om eens te kijken als ik mijn laptop niet bij had. 
